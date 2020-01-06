@@ -1,0 +1,9 @@
+{
+  "files.eol": "\n",
+  "terminal.integrated.shellArgs.osx": [],
+  "editor.rulers": [90, 180],
+  "javascript.validate.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+	}
+}
