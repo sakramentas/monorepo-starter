@@ -1,0 +1,9 @@
+{
+  "name": "@mono/config-jest",
+  "version": "1.0.0",
+  "description": "Jest custom configurations",
+  "main": "index.js",
+  "author": "Lucas Sacramento <lucas.arki@gmail.com> (https://github.com/sakramentas)",
+  "license": "MIT",
+  "private": true
+}

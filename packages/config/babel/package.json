@@ -1,0 +1,9 @@
+{
+  "name": "@mono/babel-preset",
+  "version": "1.0.0",
+  "description": "Custom Babel Preset",
+  "main": "index.js",
+  "author": "Lucas Sacramento <lucas.arki@gmail.com> (https://github.com/sakramentas)",
+  "license": "MIT",
+  "private": true
+}

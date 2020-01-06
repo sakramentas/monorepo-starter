@@ -1,0 +1,9 @@
+{
+  "name": "@mono/config-webpack",
+  "version": "1.0.0",
+  "description": "Webpack custom configurations",
+  "main": "index.js",
+  "author": "Lucas Sacramento <lucas.arki@gmail.com> (https://github.com/sakramentas)",
+  "license": "MIT",
+  "private": true
+}
